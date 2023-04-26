@@ -1,0 +1,6 @@
+Faker==18.4.0
+numpy==1.24.3
+pytz==2023.3
+pytz-deprecation-shim==0.1.0.post0
+tzdata==2023.3
+tzlocal==4.3
